@@ -7,7 +7,7 @@
 
 body {
     background: #ffffff;
-    color: #fff;
+    color: #141313;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -140,4 +140,5 @@ ul li span:hover {
         padding: 15px;
         border-radius: 30px;
     }
+
 }
